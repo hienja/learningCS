@@ -23,12 +23,12 @@ public class NumberWizard : MonoBehaviour {
 	}
 	
 	public void GuessHigher(){
-		min = guess + 1;
+		min = guess + 1 > max ? max : guess + 1;
 		NextGuess();
 	}
 	
 	public void GuessLower(){
-		max = guess - 1;
+		max = guess - 1 < min ? min : guess - 1;
 		NextGuess();
 	}
 	
