@@ -1,8 +1,8 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="..\Block Breaker\Assets\Sounds\MusicPlayer.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Sounds\MusicPlayer.cs">
     <Files>
-      <File FileName="..\Block Breaker\Assets\Sounds\MusicPlayer.cs" Line="9" Column="17" />
+      <File FileName="Assets\Sounds\MusicPlayer.cs" Line="9" Column="17" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
